@@ -39,14 +39,14 @@ export const Home = () => {
                 </h1>
                 <p className="mb-1x">{introdata.description}</p>
                 <div className="intro_btn-action pb-5">
-                  <Link to="/portfolio" className="text_2">
+                  <a className="text_2" href="https://drive.google.com/file/d/1xSbXErOV6mFda6fkrxQ4QLhy7o8tQZJy/view?usp=sharing ">
                     <div id="button_p" className="ac_btn btn ">
-                      My Portfolio
+                      My Resume
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
                     </div>
-                  </Link>
+                  </a>
                   <Link to="/contact">
                     <div id="button_h" className="ac_btn btn">
                       Contact Me
