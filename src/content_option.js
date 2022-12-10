@@ -73,74 +73,72 @@ const services = [{
 ];
 
 const dataportfolio = [{
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://i.ibb.co/CzjGgY3/color.png",
     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    link: "https://color-canvas-2110c.web.app/",
 },
 {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: "https://i.ibb.co/hVtD3Lz/kena.png",
     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    link: "https://let-the-music-play-74042.web.app/",
 },
 {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://i.ibb.co/G5Lp8qN/music.png",
     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    link: "https://kena-kati.web.app/",
 },
 {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: "https://i.ibb.co/bLpZD2k/Capture.png",
     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    link: "https://relaxed-piroshki-a37fe2.netlify.app/",
 },
-{
-    img: "https://picsum.photos/400/300/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/700/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
+    // {
+    //     img: "https://picsum.photos/400/300/?grayscale",
+    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/700/?grayscale",
+    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
 
-{
-    img: "https://picsum.photos/400/600/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/300/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/550/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/700/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
+    // {
+    //     img: "https://picsum.photos/400/600/?grayscale",
+    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/300/?grayscale",
+    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/?grayscale",
+    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/550/?grayscale",
+    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/?grayscale",
+    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/700/?grayscale",
+    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
 ];
 
 const contactConfig = {
     YOUR_EMAIL: "zhoaibhassan@gmail.com",
     YOUR_FONE: "+88 01622-905170",
     description: "You can send me an email if you want to contact me or have any queries",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_96yitvv",
     YOUR_TEMPLATE_ID: "template_3y1ohqq",
     YOUR_USER_ID: "XINurYZvYq0YP3N4M",
